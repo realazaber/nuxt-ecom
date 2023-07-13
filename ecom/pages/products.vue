@@ -1,0 +1,7 @@
+<template>
+  <section>
+    <div class="container">
+      <h1>Products</h1>
+    </div>
+  </section>
+</template>
